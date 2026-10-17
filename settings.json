@@ -11,10 +11,10 @@
     "scm.compactFolders": false,
     "editor.semanticHighlighting.enabled": false,
     "breadcrumbs.enabled": false,
-    "workbench.activityBar.location": "bottom",
+    // "workbench.activityBar.location": "bottom",
     "editor.minimap.enabled": false,
     "editor.scrollbar.horizontal": "hidden",
-    "editor.scrollbar.vertical": "hidden",
+    // "editor.scrollbar.vertical": "hidden",
     "apc.electron": {
         "titleBarStyle": "hiddenInset"
     },
@@ -33,8 +33,11 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "vscord.app.name": "Visual Studio Code",
     "explorer.compactFolders": false,
-    "workbench.colorTheme": "One Dark Pro Night Flat",
     "debug.javascript.autoAttachFilter": "always",
     "claudeCode.preferredLocation": "panel",
-    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Min Dark",
+    "terminal.integrated.initialHint": false,
+    "git.confirmSync": false,
+    "js/ts.updateImportsOnFileMove.enabled": "always",
+    "git.enableSmartCommit": true,
 }
